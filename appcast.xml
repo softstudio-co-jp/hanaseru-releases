@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Hanaseru Updates</title>
+        <link>https://releases.hanaseru.app/appcast.xml</link>
+        <description>Hanaseru update feed</description>
+        <language>ja</language>
+
+        <!-- Items are added by generate_appcast or publish-release.sh -->
+
+    </channel>
+</rss>
