@@ -8,14 +8,14 @@
 
         <item>
             <title>Hanaseru 1.0.0</title>
-            <pubDate>Wed, 25 Mar 2026 17:14:06 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Wed, 26 Mar 2026 23:00:00 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/VoiceInput-1.0.0.dmg"
+            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg"
                        type="application/octet-stream"
-                       sparkle:edSignature="hCfWN5fUaHgHnnyNpb4HFgDeYK+bRDo7Q/70JWs5GuXPwAzka6IoKSdqgYuh9T8RMTkLewsQbiosbwkTfpjCAQ=="
-                       length="2042487" />
+                       sparkle:edSignature="9Jeg68yN1P00ZXxlTU7VRkEZrjclU9440fR/4WZUhpANtGAW7X420s5oZISci93c9WeJssY/4wLnAl+Ib5qQDA=="
+                       length="9436581" />
         </item>
 
     </channel>
