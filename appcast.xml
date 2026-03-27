@@ -7,15 +7,15 @@
         <language>ja</language>
 
         <item>
-            <title>Hanaseru 1.0.0 (build 14)</title>
-            <pubDate>Sat, 28 Mar 2026 04:19:08 +0900</pubDate>
-            <sparkle:version>14</sparkle:version>
+            <title>Hanaseru 1.0.0 (build 15)</title>
+            <pubDate>Sat, 28 Mar 2026 05:33:31 +0900</pubDate>
+            <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg"
                        type="application/octet-stream"
-                       sparkle:edSignature="0IT5x4u+UxaXJgHk/onregW7QgLDYBujcIzjaetaAFSI3/qU9tlj6z+XHS/4aRmNWd8vkkrbFCRyzHEVpY8zCg=="
-                       length="9193356" />
+                       sparkle:edSignature="OEB/Xoee8WmFOpCC58xXpGvf8I1ew6Ke0Jl1e7BQfZxZbDErmZrguoo3zv7G6sb2phwoc3DpDDO0Uh2FcUOBBQ=="
+                       length="9166734" />
         </item>
 
     </channel>
