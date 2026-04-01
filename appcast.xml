@@ -8,6 +8,15 @@
         <item>
             <title>1.0.0</title>
             <pubDate>Mon, 30 Mar 2026 17:37:17 +0900</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg" length="9183342" type="application/octet-stream" sparkle:edSignature="wc4j4qUurmqDAd4WAc60VlntKNTolwaB3c52EyiA27+GO2rowE7uB6VZqu+rYbbMFbR/Eh1reNPwJMCcBBV7Ag=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 30 Mar 2026 17:37:17 +0900</pubDate>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
@@ -22,15 +31,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg" length="9182061" type="application/octet-stream" sparkle:edSignature="Auah0waX29WcJzgrd+8D3RXPAOi+A5gR8kTQyg39upUCxDaiRgHsZ7wPyVfPEwdI/bZgL4k6UylIYTYZDtAfDg=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 30 Mar 2026 17:37:17 +0900</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg" length="9181142" type="application/octet-stream" sparkle:edSignature="IFxA7frDwlZfYqiig0tNzN4y388wru10XhD0fIKE4P1I/tTSZ4u+jUTrJ9DBmTmTQWvsUYei/ks5qkhyv8qqCQ=="/>
         </item>
         <item>
             <title>Hanaseru 1.0.0 (build 15)</title>
