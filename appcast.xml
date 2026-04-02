@@ -7,6 +7,15 @@
         <language>ja</language>
         <item>
             <title>1.0.0</title>
+            <pubDate>Thu, 02 Apr 2026 00:11:43 +0900</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg" length="8488109" type="application/octet-stream" sparkle:edSignature="Ct7dFkr6/1WbZxAosiPCWytY9LX4U3Zi53SwtgZBfBXesMHYDHZvXn3eAqi0LK0EoT4CSz36NA68/GbQJJLbAg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Thu, 02 Apr 2026 23:15:07 +0900</pubDate>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -22,24 +31,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg" length="9189253" type="application/octet-stream" sparkle:edSignature="J0Nz7QeypQAghbJC7JBZ9dKjZ/84xmjuFswK1UbpaHcDaady1wOToM5qu6/oz7LUveTgoksrzMPg0suJrYU5DA=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 02 Apr 2026 00:11:43 +0900</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg" length="9188481" type="application/octet-stream" sparkle:edSignature="AAWfKsPQ4NPf3GTc9kZmMFKzw5Ud1defJ1bUq2NUXqH3CA4yqfqCFXWWGA6ctbRQnQecTDgjZv+B/DAaF9CYAg=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 30 Mar 2026 17:37:17 +0900</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg" length="9183342" type="application/octet-stream" sparkle:edSignature="wc4j4qUurmqDAd4WAc60VlntKNTolwaB3c52EyiA27+GO2rowE7uB6VZqu+rYbbMFbR/Eh1reNPwJMCcBBV7Ag=="/>
         </item>
         <item>
             <title>Hanaseru 1.0.0 (build 15)</title>
