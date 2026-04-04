@@ -7,12 +7,12 @@
         <language>ja</language>
         <item>
             <title>1.0.0</title>
-            <pubDate>Thu, 02 Apr 2026 00:11:43 +0900</pubDate>
+            <pubDate>Sat, 04 Apr 2026 11:35:42 +0900</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg" length="8488109" type="application/octet-stream" sparkle:edSignature="Ct7dFkr6/1WbZxAosiPCWytY9LX4U3Zi53SwtgZBfBXesMHYDHZvXn3eAqi0LK0EoT4CSz36NA68/GbQJJLbAg=="/>
+            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.0.0/Hanaseru-1.0.0.dmg" length="8488035" type="application/octet-stream" sparkle:edSignature="Kmn6ADcdp9+EIYaGCziAvs3wHYhh9F2AWgmhX4LXCgw1cr5er6v3MnjQFoqFexQr7adHM0mVqawmZDmyIe6FCg=="/>
         </item>
         <item>
             <title>1.0.0</title>
