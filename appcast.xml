@@ -6,6 +6,15 @@
         <description>Hanaseru update feed</description>
         <language>ja</language>
         <item>
+            <title>1.1.15</title>
+            <pubDate>Tue, 15 Sep 2026 23:19:56 +0900</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.1.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/softstudio-co-jp/hanaseru-releases/releases/download/v1.1.15/Hanaseru-1.1.15.dmg" length="8734087" type="application/octet-stream" sparkle:edSignature="I3lXWhuRYr5Qb5thgifpaFjB4xKrkiCmCudvYq62bTWcV5yD2bPdsarNOvd9hRjky26k6/cPgIZq3HBnKbCrDQ=="/>
+        </item>
+        <item>
             <title>1.1.14</title>
             <pubDate>Sat, 12 Sep 2026 05:07:02 +0900</pubDate>
             <sparkle:version>44</sparkle:version>
